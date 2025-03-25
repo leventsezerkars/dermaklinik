@@ -1,0 +1,98 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+CLINIC: DOÇ. DR. MEHMET ÜNAL
+
+THEME:
+- Minimalist, şık ve modern tasarım
+- Mobil uyumlu (responsive) ve hızlı yüklenen yapı
+- Samimi ve hasta dostu dil
+- Renkler: Beyaz, mavi tonları
+- Yazı tipi: Open Sans veya benzeri modern font
+
+SECTIONS:
+
+HERO:
+- Başlık: Sağlıklı ve Işıldayan Bir Cilt İçin Doğru Adres!
+- Açıklama: DOÇ. DR. MEHMET ÜNAL ile cildiniz için en doğru tedavi yöntemlerini keşfedin.
+- Butonlar: Randevu Al, WhatsApp ile İletişim
+
+HİZMETLER:
+- **Cilt Gençleştirme ve Yenileme**
+  - Lazerle Cilt Gençleştirme
+  - PRP (Platelet Rich Plasma)
+  - Mezoterapi
+  - Somon DNA Tedavisi
+  - Karbon Peeling
+- **Estetik Uygulamalar**
+  - Botoks
+  - Dolgu Uygulamaları (Göz Altı, Dudak, Nazolabial)
+  - Gençlik Aşısı
+  - Cilt Sıkılaştırma
+- **Leke ve Akne Tedavileri**
+  - Kimyasal Peeling
+  - Lazerle Leke Tedavisi
+  - Akne ve Sivilce Tedavisi
+  - Rozasea (Gül Hastalığı) Tedavisi
+- **Saç ve Kaş Uygulamaları**
+  - Saç Mezoterapisi
+  - PRP ile Saç Tedavisi
+  - Kaş Kontürü
+- **Vücut ve Bölgesel Tedaviler**
+  - Çatlak ve Selülit Tedavisi
+  - Bölgesel Zayıflama ve Soğuk Lipoliz
+  - Lazer Epilasyon
+  - Terleme Botoksu
+
+HİZMET DETAYLARI:
+- Her hizmet için özel bir sayfa olacak.
+- Her sayfa şu bilgileri içerecek:
+  - Hizmetin tanımı ve nasıl uygulandığı
+  - Tedavi süresi ve seans bilgileri
+  - Kimler için uygun olduğu
+  - Öncesi ve sonrası bakım önerileri
+  - Sıkça Sorulan Sorular (o hizmete özel)
+
+HAKKINDA:
+- DOÇ. DR. MEHMET ÜNAL’ın uzmanlıkları, akademik geçmişi ve tecrübeleri
+- Hasta memnuniyet oranları ve güven unsurları
+
+HASTA YORUMLARI:
+- Gerçek hasta deneyimleri ve başarı hikayeleri
+
+BLOG:
+- Dermatoloji ve cilt sağlığı hakkında bilgilendirici yazılar
+- SEO uyumlu içerikler ile hasta çekme stratejisi
+
+SSS:
+- Soru: Tedavi süreci nasıl ilerliyor?
+  Cevap: İlk muayene sonrası size en uygun tedavi yöntemi belirlenir ve süreç hakkında detaylı bilgi verilir.
+- Soru: Randevu almak için ne yapmalıyım?
+  Cevap: Web sitemizdeki randevu formunu doldurabilir veya WhatsApp üzerinden hızlıca iletişime geçebilirsiniz.
+- Soru: Sigorta geçerli mi?
+  Cevap: Kliniğimizde geçerli sigortalar hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+- Soru: Tedavi sonrası nelere dikkat etmeliyim?
+  Cevap: Tedavi türüne bağlı olarak doktorunuz özel talimatlar verecektir. Genel olarak, cildinizi korumak ve verilen önerilere uymak önemlidir.
+- Soru: Lazer tedavileri acı verir mi?
+  Cevap: Çoğu lazer uygulaması hafif bir batma hissi yaratabilir, ancak anestezik kremlerle konforlu hale getirilir.
+- Soru: PRP ve mezoterapi arasındaki fark nedir?
+  Cevap: PRP, kişinin kendi kanından elde edilen plazma ile uygulanırken, mezoterapi vitamin ve mineral bazlı enjeksiyonlardan oluşur.
+
+RANDEVU FORMU:
+- Ad Soyad
+- Telefon
+- E-mail
+- Hizmet Seçimi (Dropdown Menü)
+- Gönder butonu
+
+İLETİŞİM:
+- Telefon numarası ve e-mail
+- WhatsApp ile hızlı mesaj butonu
+- Google Maps konum entegrasyonu
+
+EXTRA:
+- Hafif hover ve geçiş animasyonları
+- SEO uyumlu yapı ve hızlı yükleme
+- Kullanıcı dostu ve kolay gezilebilir menü
